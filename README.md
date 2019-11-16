@@ -7,6 +7,8 @@ to install dependencies goto project folder and do
 
 ```npm i```
 
+*you will recieve warnning , please ignore them*
+
 this will install dependencies for the server side.
 
 then dependencies for the client side needs to be installed next
@@ -14,6 +16,7 @@ then dependencies for the client side needs to be installed next
 so cd into client folder and do 
 
 ```npm i```
+*you will recieve warnning , please ignore them*
 
 now all dependencies are installed.
 
