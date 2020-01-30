@@ -32,5 +32,5 @@ once the build is complete , navigate back to the inital project folder and do,
 
 ```node server.js```
 
-username : aruna 
+username : arunaxd 
 password : 123
