@@ -1,7 +1,7 @@
 const storage = {
   token: "userToken",
   userInfo: "userInfo",
-  userName: "arunaxd",
+  userName: "changed",
   password: "123"
 };
 class User {
