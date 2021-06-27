@@ -1,7 +1,7 @@
 import { IS_LOGIN, USER_NAME, USER_PASSWORD } from "../actions/action-type";
 
 const initialState = {
-  username: "changed2",
+  username: "changed3",
   password: "",
   loading: false,
   success: false,
@@ -33,5 +33,5 @@ const userReducers = (state = initialState, action) => {
       return state;
   }
 };
-
+#Changed Value to 3
 export default userReducers;
