@@ -1,7 +1,8 @@
+#Changed Value to 3
 const storage = {
   token: "userToken",
   userInfo: "userInfo",
-  userName: "changed1",
+  userName: "changed3",
   password: "123"
 };
 class User {
